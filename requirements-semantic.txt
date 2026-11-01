@@ -1,0 +1,3 @@
+# Optional large dependency for embedding-based semantic similarity.
+# Install with: pip install -r requirements-semantic.txt
+sentence-transformers>=3.0
